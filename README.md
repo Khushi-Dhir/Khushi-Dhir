@@ -14,7 +14,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi-dhir&show_icons=true&locale=en&layout=compact" alt="khushi-dhir" /></p>
 
 
-<h2 align="center">🐍 Contribution Snake</h2>
-<p align="center">
-  <img src="https://github.com/khushi-dhir/khushi-dhir/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/khushi-dhir/khushi-dhir/blob/output/github-contribution-grid-snake.svg)
