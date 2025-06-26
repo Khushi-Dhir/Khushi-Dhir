@@ -16,4 +16,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif]([https://github.com/khushi-dhir/khushi-dhir/blob/output/github-contribution-grid-snake.svg](https://github.com/Khushi-Dhir/Khushi-Dhir/blob/main/.github/workflows/snake.yml))
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
